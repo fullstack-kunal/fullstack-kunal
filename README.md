@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. Here's a little about me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer%F0%9F%8E%93;Front+End+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;MEAN+Stack+Developer%F0%9F%9A%80;Learn%2C+Code%2C+Build+%F0%9F%91%BD)](https://git.io/typing-svg)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=manthanank&color=brightgreen)
 ![npm](https://img.shields.io/npm/dt/manthanank)
 ![GitHub followers](https://img.shields.io/github/followers/manthanank?label=Follow&style=social)
@@ -83,14 +81,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![AWS](/assets/svg/aws.svg)
 
 ## Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Developing a Stylish Music Player with Angular and Tailwind CSS](https://manthanank.hashnode.dev/developing-a-stylish-music-player-with-angular-and-tailwind-css)
-- [Building a Modern Music Player App with Angular and Tailwind CSS](https://dev.to/manthanank/building-a-modern-music-player-app-with-angular-and-tailwind-css-213g)
-- [Creating a Tic Tac Toe Game with Angular: A Step-by-Step Tutorial](https://manthanank.hashnode.dev/creating-a-tic-tac-toe-game-with-angular-a-step-by-step-tutorial)
-- [Building a Tic Tac Toe Game in Angular: A Beginner&#39;s Guide](https://dev.to/manthanank/building-a-tic-tac-toe-game-in-angular-a-beginners-guide-fcm)
-- [Creating an Angular Application with Enum Alternatives: A Practical Guide](https://manthanank.hashnode.dev/creating-an-angular-application-with-enum-alternatives-a-practical-guide)
-<!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
 
