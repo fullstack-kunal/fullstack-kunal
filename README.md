@@ -6,7 +6,7 @@
 ---
 
 ## 💻 **About Me**
-- 🔥 Currently on a journey to mastering DSA, MERN stack, and system design and mobile app development(React Native).  
+- 🔥 Currently on a journey to mastering DSA, MERN stack, system design and mobile app development(React Native).  
 - 👨‍💻 **Experience**: 1 year and 11 months in MERN stack development.  
    - **Mobiloitte Technology**: 1 year 3 months  
    - **Senwell Group**: 8 months (Current Role)  
@@ -32,6 +32,7 @@
 ## 📊 **Stats**
 ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstack-kunal&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-kunal&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
 
 ---
 
