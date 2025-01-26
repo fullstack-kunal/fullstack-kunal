@@ -1,125 +1,75 @@
-# Hey, I'm Kunal Kamthe👋
+# 👋 Hi, I'm Kunal! 
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. Here's a little about me:
-
-![Profile Views](https://komarev.com/ghpvc/?username=manthanank&color=brightgreen)
-![npm](https://img.shields.io/npm/dt/manthanank)
-![GitHub followers](https://img.shields.io/github/followers/manthanank?label=Follow&style=social)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/manthanank)
-![GitHub User's stars](https://img.shields.io/github/stars/manthanank?affiliations=OWNER&style=social)
-
-- 💻 I'm a Software Developer.
-- 🧑‍💻 I’m currently working on Full Stack projects.
-- 🌱 I’m currently learning advanced Nodejs and React state management techniques.
-- 👯 I’m looking to collaborate on React-based projects, MERN stack applications, and real-time collaborative tools.
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1Q61tx0VVVwwvBV9IBkkpLP3d3_3g3_b-/view?usp=drivesdk)
-- 💬 Ask me about React, MERN stack development, and integrating Tailwind CSS in modern web apps.
-- ✉️ Feel free to reach out to me at [kunalkamthe200@gmail.com](mailto:kunalkamthe200@gmail.com).
-- ⚡ Fun fact: I’ve built 10+ side projects using the MERN stack and love exploring creative ways to solve problems!
-
-## Languages and Tools
-
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
-![NextJs](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJs](https://img.shields.io/badge/-NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Npm](https://img.shields.io/badge/-Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Postgresql](https://img.shields.io/badge/-Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-![HTML5](/assets/svg/html.svg)
-![CSS3](/assets/svg/css.svg)
-![SASS](/assets/svg/sass.svg)
-![TailwindCSS](/assets/svg/tailwindcss.svg)
-![Bootstrap](/assets/svg/bootstrap.svg)
-![JavaScript](/assets/svg/javascript.svg)
-![Typescript](/assets/svg/typescript.svg)
-![Python](/assets/svg/python.svg)
-![Node.js](/assets/svg/nodejs.svg)
-![Express](/assets/svg/express.svg)
-![Socket.IO](/assets/svg/socketio.svg)
-![Deno](/assets/svg/deno.svg)
-![NextJs](/assets/svg/nextjs.svg)
-![NestJs](/assets/svg/nestjs.svg)
-![Git](/assets/svg/git.svg)
-![GitHub](/assets/svg/github.svg)
-![Npm](/assets/svg/npm.svg)
-![GitLab](/assets/svg/gitlab.svg)
-![MySQL](/assets/svg/mysql.svg)
-![Heroku](/assets/svg/heroku.svg)
-![Yarn](/assets/svg/yarn.svg)
-![Docker](/assets/svg/docker.svg)
-![Linux](/assets/svg/linux.svg)
-![MongoDB](/assets/svg//mongodb.svg)
-![Firebase](/assets/svg/firebase.svg)
-![GraphQL](/assets/svg/graphql.svg)
-![Postgresql](/assets/svg/postgresql.svg)
-![Figma](/assets/svg/figma.svg)
-![AWS](/assets/svg/aws.svg)
-
-## Recent Blog Posts
-
-## Weekly Insight of Languages I use
-
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   3 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   40.05 %
-TypeScript   3 hrs 18 mins   █████████▒░░░░░░░░░░░░░░░   36.90 %
-JSON         1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-HTML         41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-SCSS         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
-
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kamthe-21aa5222a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunal_kamthe45/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/manthanank/](https://www.facebook.com/kunal.kamthe.359/))
-
-## Support me
-
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/manthanank)
-[![Sponsor me](https://img.shields.io/badge/Sponsor%20me-FFDD00?style=for-the-badge&logo=github-sponsors&logoColor=white)]([https://github.com/sponsors/manthanank])
-
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 💬 Let's Talk
-
-Feel free to reach out if you want to collaborate on a project, ask a question, or just say hi!
+🌟 **MERN Stack Developer | Aspiring Full-Stack Engineer | Problem Solver**  
+🚀 Passionate about building scalable web applications, solving complex problems, and continuously learning.  
 
 ---
 
-Thanks for visiting! 😄
+## 💻 **About Me**
+- 🔥 Currently on a journey to land a **₹10 LPA package** by mastering DSA, MERN stack, and system design.  
+- 👨‍💻 **Experience**: 1 year and 9 months in MERN stack development.  
+   - **Mobiloitte Technology**: 1 year 3 months  
+   - **Senwell Group**: 6 months (Current Role)  
+- 💡 Strong focus on building intuitive, user-friendly web applications and solving challenging coding problems.  
+- 🎯 Aiming to make significant contributions to open-source and collaborate with global developers.  
+
+---
+
+## 🛠 **Skills**
+### **Programming**
+- **Languages**: JavaScript, Java, HTML, CSS, SQL  
+- **Frameworks & Libraries**: React.js, Node.js, Express.js  
+- **Databases**: MongoDB, MySQL  
+
+### **Specializations**
+- 🌐 Front-End: Responsive UI/UX with React.js and Redux.  
+- 🔗 Back-End: RESTful APIs, Authentication (JWT, OAuth), and WebSockets.  
+- 🛠 Tools & Platforms: Git, GitHub, Docker, AWS Basics.  
+- 📈 Problem Solving: Strong DSA knowledge with a growing GitHub streak (currently **27 days** 🎉).
+
+---
+
+## 📊 **Stats**
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 📂 **Projects**
+### **1. Real-Time Chat Application**
+- Built a full-stack real-time chat app with React, Node.js, WebSocket, and MongoDB.
+- Features: Real-time messaging, user authentication, and responsive UI.
+- **GitHub Repo**: [ChatApp](#)
+
+### **2. Expense Tracker**
+- Developed an expense tracker using React, Node.js, and MongoDB.
+- Features: Add/delete transactions, filter by date, and track spending trends.
+- **GitHub Repo**: [ExpenseTracker](#)
+
+### **3. Portfolio Website**
+- Built a personal portfolio showcasing projects, skills, and blog posts.
+- Deployed on Vercel with React.js.
+- **GitHub Repo**: [Portfolio](#)
+
+---
+
+## 🌱 **Current Goals**
+- 📚 Master DSA by solving **300+ problems** on LeetCode and HackerRank.  
+- 🚀 Build advanced MERN stack projects with scalable architectures.  
+- 🛠 Learn Docker, Kubernetes, and CI/CD for DevOps practices.  
+
+---
+
+## 🤝 **Let's Connect**
+- **LinkedIn**: [Kunal](https://www.linkedin.com/in/your-link/)  
+- **GitHub**: [Kunal](https://github.com/YOUR_USERNAME)  
+- **Twitter/X**: [@KunalDev](https://twitter.com/your-handle)  
+
+---
+
+🌟 **Fun Fact**: When I'm not coding, you'll find me lifting weights at the gym, breaking personal records, or planning my next big career move!  
+🎯 **Motto**: "Code, Lift, Repeat."
+
+---
+
+Feel free to reach out if you'd like to collaborate, learn together, or just chat about tech! 🚀  
