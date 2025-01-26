@@ -6,10 +6,10 @@
 ---
 
 ## 💻 **About Me**
-- 🔥 Currently on a journey to land a **₹10 LPA package** by mastering DSA, MERN stack, and system design.  
-- 👨‍💻 **Experience**: 1 year and 9 months in MERN stack development.  
+- 🔥 Currently on a journey to mastering DSA, MERN stack, and system design and mobile app development(React Native).  
+- 👨‍💻 **Experience**: 1 year and 11 months in MERN stack development.  
    - **Mobiloitte Technology**: 1 year 3 months  
-   - **Senwell Group**: 6 months (Current Role)  
+   - **Senwell Group**: 8 months (Current Role)  
 - 💡 Strong focus on building intuitive, user-friendly web applications and solving challenging coding problems.  
 - 🎯 Aiming to make significant contributions to open-source and collaborate with global developers.  
 
@@ -17,21 +17,21 @@
 
 ## 🛠 **Skills**
 ### **Programming**
-- **Languages**: JavaScript, Java, HTML, CSS, SQL  
+- **Languages**: JavaScript, Typescript, HTML, CSS, SQL  
 - **Frameworks & Libraries**: React.js, Node.js, Express.js  
-- **Databases**: MongoDB, MySQL  
+- **Databases**: MongoDB, MySQL, postgreSQL
 
 ### **Specializations**
 - 🌐 Front-End: Responsive UI/UX with React.js and Redux.  
 - 🔗 Back-End: RESTful APIs, Authentication (JWT, OAuth), and WebSockets.  
 - 🛠 Tools & Platforms: Git, GitHub, Docker, AWS Basics.  
-- 📈 Problem Solving: Strong DSA knowledge with a growing GitHub streak (currently **27 days** 🎉).
+- 📈 Problem Solving: Strong DSA knowledge with a growing GitHub streak (🎉).
 
 ---
 
 ## 📊 **Stats**
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstack-kunal&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-kunal&layout=compact&theme=radical)
 
 ---
 
@@ -61,9 +61,8 @@
 ---
 
 ## 🤝 **Let's Connect**
-- **LinkedIn**: [Kunal](https://www.linkedin.com/in/your-link/)  
-- **GitHub**: [Kunal](https://github.com/YOUR_USERNAME)  
-- **Twitter/X**: [@KunalDev](https://twitter.com/your-handle)  
+- **LinkedIn**: [Kunal](https://www.linkedin.com/in/kunal-kamthe-21aa5222a/)  
+- **GitHub**: [Kunal](https://github.com/fullstack-kunal)
 
 ---
 
