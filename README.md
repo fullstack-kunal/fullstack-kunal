@@ -25,7 +25,7 @@
 - 🌐 Front-End: Responsive UI/UX with React.js and Redux.  
 - 🔗 Back-End: RESTful APIs, Authentication (JWT, OAuth), and WebSockets.  
 - 🛠 Tools & Platforms: Git, GitHub, Docker, AWS Basics.  
-- 📈 Problem Solving: Strong DSA knowledge with a growing GitHub streak (🎉).
+- 📈 Problem Solving: Strong DSA knowledge with a growing GitHub current streak(🎉).
 
 ---
 
