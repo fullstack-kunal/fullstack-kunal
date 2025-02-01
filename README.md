@@ -7,8 +7,8 @@
 
 ## 💻 **About Me**
 - 🔥 Currently on a journey to mastering DSA, MERN stack, system design and mobile app development(React Native).  
-- 👨‍💻 **Experience**: 1 year and 11 months in MERN stack development.  
-   - **Mobiloitte Technology**: 1 year 3 months  
+- 👨‍💻 **Experience**: 2 years in MERN stack development.  
+   - **Mobiloitte Technology**: 1 year 4 months  
    - **Senwell Group**: 8 months (Current Role)  
 - 💡 Strong focus on building intuitive, user-friendly web applications and solving challenging coding problems.  
 - 🎯 Aiming to make significant contributions to open-source and collaborate with global developers.  
